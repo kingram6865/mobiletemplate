@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "template",
+    "slug": "template",
+    "version": "0.0.1",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.sdl.template"
+    }
+  },
+  "android": {
+    "package": "com.sdl.template",
+    "versionCode": 1
+  },
+  "name": "Template"
+}
